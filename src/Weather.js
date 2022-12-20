@@ -77,7 +77,7 @@ export default function Weather() {
           </div>
         </div>
         <p className="weather-link">
-          <a href="https://github.com/anninool/weather-application">
+          <a href="https://github.com/anninool/weather-react">
             Open-source code
           </a>
           by Anni Nool
